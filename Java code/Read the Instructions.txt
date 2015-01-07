@@ -1,0 +1,2 @@
+1. Read the files using net beans or Eclipse.
+2. Source the image files to your destined folder.
